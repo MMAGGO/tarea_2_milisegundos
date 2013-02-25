@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Principal.cs">
+    <Files>
+      <File FileName="AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="Principal.cs" Line="26" Column="4" />
+      <File FileName="Reloj.cs" Line="36" Column="47" />
+      <File FileName="..\..\Cronometro.cs" Line="22" Column="8" />
+      <File FileName="Utilerias.cs" Line="27" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

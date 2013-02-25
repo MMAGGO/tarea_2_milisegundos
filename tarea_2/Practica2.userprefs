@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\ttarea-master\Principal">
+    <Files>
+      <File FileName="Practica2\Principal.cs" Line="33" Column="2" />
+      <File FileName="Practica2\Reloj.cs" Line="48" Column="3" />
+      <File FileName="Practica2\Cronometro.cs" Line="1" Column="1" />
+      <File FileName="Practica2\AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="Practica2\Utilerias.cs" Line="28" Column="4" />
+      <File FileName="..\..\ttarea-master\Principal" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
